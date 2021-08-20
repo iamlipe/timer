@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/timer/static/css/main.a617e044.chunk.css",
-    "main.js": "/timer/static/js/main.5f69bd79.chunk.js",
-    "main.js.map": "/timer/static/js/main.5f69bd79.chunk.js.map",
-    "runtime-main.js": "/timer/static/js/runtime-main.55572b3a.js",
-    "runtime-main.js.map": "/timer/static/js/runtime-main.55572b3a.js.map",
-    "static/js/2.3fd8c226.chunk.js": "/timer/static/js/2.3fd8c226.chunk.js",
-    "static/js/2.3fd8c226.chunk.js.map": "/timer/static/js/2.3fd8c226.chunk.js.map",
-    "static/js/3.4294369c.chunk.js": "/timer/static/js/3.4294369c.chunk.js",
-    "static/js/3.4294369c.chunk.js.map": "/timer/static/js/3.4294369c.chunk.js.map",
+    "main.css": "/timer/static/css/main.58b84cef.chunk.css",
+    "main.js": "/timer/static/js/main.67427ccc.chunk.js",
+    "main.js.map": "/timer/static/js/main.67427ccc.chunk.js.map",
+    "runtime-main.js": "/timer/static/js/runtime-main.7ab9a020.js",
+    "runtime-main.js.map": "/timer/static/js/runtime-main.7ab9a020.js.map",
+    "static/js/2.f6c0b113.chunk.js": "/timer/static/js/2.f6c0b113.chunk.js",
+    "static/js/2.f6c0b113.chunk.js.map": "/timer/static/js/2.f6c0b113.chunk.js.map",
+    "static/js/3.e842539d.chunk.js": "/timer/static/js/3.e842539d.chunk.js",
+    "static/js/3.e842539d.chunk.js.map": "/timer/static/js/3.e842539d.chunk.js.map",
     "index.html": "/timer/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/timer/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.3fd8c226.chunk.js.LICENSE.txt": "/timer/static/js/2.3fd8c226.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/timer/static/media/logo.6ce24c58.svg"
+    "static/css/main.58b84cef.chunk.css.map": "/timer/static/css/main.58b84cef.chunk.css.map",
+    "static/js/2.f6c0b113.chunk.js.LICENSE.txt": "/timer/static/js/2.f6c0b113.chunk.js.LICENSE.txt",
+    "static/media/4.adc42053.svg": "/timer/static/media/4.adc42053.svg",
+    "static/media/main.css": "/timer/static/media/OlympicSans-Bold.cf1fe859.woff",
+    "static/media/bronze.2d6b3056.svg": "/timer/static/media/bronze.2d6b3056.svg",
+    "static/media/golden.e40354c9.svg": "/timer/static/media/golden.e40354c9.svg",
+    "static/media/silver.23da3af4.svg": "/timer/static/media/silver.23da3af4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.55572b3a.js",
-    "static/js/2.3fd8c226.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.5f69bd79.chunk.js"
+    "static/js/runtime-main.7ab9a020.js",
+    "static/js/2.f6c0b113.chunk.js",
+    "static/css/main.58b84cef.chunk.css",
+    "static/js/main.67427ccc.chunk.js"
   ]
 }
